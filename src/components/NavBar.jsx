@@ -5,7 +5,7 @@ const NavBar = () => {
     return (
         <div className='flex justify-between items-center w-5/6 mx-auto p-4'>
          <div>
-         <Link className='text-xl' to='/'>navlogo</Link>
+         <Link className='text-xl' to='/'>navlogo by asm</Link>
          </div>
          <div className='text-lg space-x-4'>
             
